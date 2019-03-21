@@ -848,7 +848,7 @@
 		},
 		{
 			"ImportPath": "k8s.io/apiserver",
-			"Rev": "kubernetes-1.13.2"
+			"Rev": "5838f5"
 		},
 		{
 			"ImportPath": "k8s.io/client-go/discovery",
